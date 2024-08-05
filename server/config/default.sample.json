@@ -1,4 +1,4 @@
 {
-    "serverPort": 5000,
+    "serverPort": 3000,
     "dbUrl": "mongodb connection url"
 }

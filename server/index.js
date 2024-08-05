@@ -4,7 +4,7 @@ const config = require('config');
 
 
 const app = express ();
-const PORT = config.get('serverPort') || 5000;
+const PORT = config.get('serverPort') || 3000;
 
 const start = async() => {
     try {
